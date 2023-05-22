@@ -18,10 +18,10 @@ Anti-virus software compares hashes of malware with hashes of software component
 Malware hashes are used by virus protection software to check for viruses.
 
 
---------------                                       ---------------------------------                              
-|    Input   |     ---> Cryptographic hash function  | the digest: malware hash value |
-|   Malware  |                                       ---------------------------------
---------------
+                                                                
+Input Malware ---> Cryptog hash function ---> malware hash value (digest)
+                                              
+
 
 # What does this mean? to hash a file
 When we have an arbitrary sized file that is read by a function to allow us to generate a fixed-length value from it
