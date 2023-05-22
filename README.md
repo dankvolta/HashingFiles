@@ -33,3 +33,19 @@ hash functions can only work on immutable objects
 Hashing a file will help us return a certain type of 'id' which can help us do particular tasks     
 Strong hashes with large amounts of bytes can help us distinguish between many different files.
 
+
+
+
+
+
+
+
+#RESOURCES: 
+
+https://nitratine.net/blog/post/how-to-hash-files-in-python/
+
+https://patterns.arcitura.com/cloud-computing-patterns/mechanisms/malware_hash
+
+https://docs.python.org/3/library/hashlib.html
+
+
